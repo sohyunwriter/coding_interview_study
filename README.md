@@ -6,6 +6,6 @@ solve algorithm problems and prepare coding interview
 leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다.     
 
 ## Algorthim Problems      
-- 2021.01.13 Leetcode - Sliding Window Maximum  [문제링크](https://leetcode.com/problems/sliding-window-maximum/)         
+- 2021.01.13 Leetcode [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)         
 
 
