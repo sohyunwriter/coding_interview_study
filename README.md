@@ -11,4 +11,4 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 
 ## Contributors     
 - Sohyeon Yim         
-- 
+- Sunghee Ryu 
