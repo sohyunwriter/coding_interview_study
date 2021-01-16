@@ -25,7 +25,7 @@
 ***     
 
 #### 💡 커리큘럼      
-|회차|일시|cs 주제|ps문제|참여자|             
+|회차|일시|CS 주제|PS 문제|참여자|             
 |:---:|:---:|:---|:---:|:---:|     
 |1|2021.01.16(토)|다익스트라 알고리즘|Leetcode [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)<br> programmers [2020 카카오 인턴십 수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)<br> baejoon [17071. 숨바꼭질 5](https://www.acmicpc.net/problem/17071)|5|      
-|2|2021.01.20(수)|그래프에 대한 모든 것(그래프, BFS/DFS, 순열/조합, 최단경로 알고리즘, MST 등)|||     
+|2|2021.01.20(수)|그래프 ALL<br>(그래프, BFS/DFS, 순열/조합, 최단경로, MST 등)|||     
