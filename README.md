@@ -14,5 +14,6 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - [Sohyeon Yim](https://github.com/sohyunwriter)            
 - [HeeJe LEE](https://github.com/holim0)         
 - [Sooyoung Lee](https://github.com/syleemk)          
-- [Sunghee Ryu](https://github.com/S4nop)
+- [Sunghee Ryu](https://github.com/S4nop)     
+- [Hyejoo Noh](https://github.com/heyzoou)     
 
