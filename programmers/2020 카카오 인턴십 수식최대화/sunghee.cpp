@@ -10,7 +10,7 @@ long long operation(long long num1, long long num2, char op){
 }
 
 long long calc_with_priority(vector<long long> num, vector<char> op,
-	int pr_times, int pr_minus, int pr_plus){
+							int pr_times, int pr_minus, int pr_plus){
 	map<char, int> pr_map;
 	stack<long long> num_stk;
 	stack<char> op_stk;
