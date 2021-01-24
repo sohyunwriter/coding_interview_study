@@ -13,7 +13,8 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.01.18 baekjoon [9576. 책 나눠주기](https://www.acmicpc.net/problem/9576)
 - 2021.01.19 baekjoon [1753. 최단경로](https://www.acmicpc.net/problem/1753)
 - 2021.01.21 baekjoon [11657. 타임머신](https://www.acmicpc.net/problem/11657)    
-- 2021.01.22 codility [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)      
+- 2021.01.22 codility [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)  
+- 2021.01.24 Leetcode [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  
 
 
 ## Contributors     
