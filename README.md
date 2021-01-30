@@ -18,6 +18,7 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.01.25 baekjoon [1520. 내리막 길](https://www.acmicpc.net/problem/1520)    
 - 2021.01.28 baekjoon [9663. N-Queen](https://www.acmicpc.net/problem/9663)    
 - 2021.01.29 leetcode [155. Min Stack](https://leetcode.com/problems/min-stack/)     
+- 2021.01.31 programmers [해시 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 ## Contributors     
 - [Sohyeon Yim](https://github.com/sohyunwriter)            
