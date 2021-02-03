@@ -19,6 +19,7 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.01.28 baekjoon [9663. N-Queen](https://www.acmicpc.net/problem/9663)    
 - 2021.01.29 leetcode [155. Min Stack](https://leetcode.com/problems/min-stack/)     
 - 2021.01.31 programmers [해시 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)     
+- 2021.02.01 baekjoon [2252. 줄 세우기](https://www.acmicpc.net/problem/2252)     
 
 ## 2️⃣ Mock coding interview    
 #### 💡 스터디 시간 : 수 8pm ~ 10pm, 토 8pm~10pm          
