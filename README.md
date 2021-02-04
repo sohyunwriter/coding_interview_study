@@ -20,6 +20,7 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.01.29 leetcode [155. Min Stack](https://leetcode.com/problems/min-stack/)     
 - 2021.01.31 programmers [해시 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)     
 - 2021.02.01 baekjoon [2252. 줄 세우기](https://www.acmicpc.net/problem/2252)     
+- 2021.02.04 programmers [2021 KAKAO BLIND RECRUITMENT 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)     
 
 ## 2️⃣ Mock coding interview    
 #### 💡 스터디 시간 : 수 8pm ~ 10pm, 토 8pm~10pm          
@@ -42,11 +43,11 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 |:---:|:---:|:---|:---|:---:|     
 |1|2021.01.16(토)|다익스트라 알고리즘|Leetcode [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)<br> programmers [2020 카카오 인턴십 수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)<br> baejoon [17071. 숨바꼭질 5](https://www.acmicpc.net/problem/17071)|5|      
 |2|2021.01.20(수)|그래프 All<br>(그래프, BFS/DFS, 순열/조합, 최단경로, MST 등)||4|         
-|3|2021.01.23(토)|트리 All<br>(트리, 이진트리, 이진탐색트리, 힙, 해시 등)||4|   
-|4|2021.01.27(수)|스택, 큐, 링크드리스트, 정렬 알고리즘||4|    
+|3|2021.01.23(토)|트리 All<br>(트리, 이진트리, 이진탐색트리, 힙, 해시 등)||3|   
+|4|2021.01.27(수)|스택, 큐, 링크드리스트, 정렬 알고리즘||3|    
 |5|2021.01.30(토)|자료구조&알고리즘 모의면접||4|     
-|6|2021.02.03(수)|||    
-|7|2021.02.06(토)|||    
+|6|2021.02.03(수)|재귀, dynamic programming|4|    
+|7|2021.02.06(토)|데이터베이스||    
 |8|2021.02.15(월)|||   
 |9|2021.02.17(수)|||   
 |10|2021.02.20(토)|||   
