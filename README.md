@@ -22,6 +22,8 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.02.01 baekjoon [2252. 줄 세우기](https://www.acmicpc.net/problem/2252)     
 - 2021.02.04 programmers [2021 KAKAO BLIND RECRUITMENT 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)    
 - 2021.02.05 baekjoon [14501. 퇴사](https://www.acmicpc.net/problem/14501)     
+- 2021.02.07 leetcode [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- 2021.02.08 baekjoon [1089. 스타트링크 타워](https://www.acmicpc.net/problem/1089)
 
 ## 2️⃣ Mock coding interview    
 #### 💡 스터디 시간 : 수 8pm ~ 10pm, 토 8pm~10pm          
