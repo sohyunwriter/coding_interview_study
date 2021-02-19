@@ -25,6 +25,10 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.02.07 leetcode [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - 2021.02.08 baekjoon [1089. 스타트링크 타워](https://www.acmicpc.net/problem/1089)    
 - 2021.02.09 programmers [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)     
+- 2021.02.11 programmers [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)     
+- 2021.02.12 leetcode [78. Subsets](https://leetcode.com/problems/subsets/description/)
+- 2021.02.14 programmers [깊이/너비 우선 탐색(DFS/BFS) 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+
 
 ## 2️⃣ Mock coding interview    
 #### 💡 스터디 시간 : 수 8pm ~ 10pm, 토 8pm~10pm          
