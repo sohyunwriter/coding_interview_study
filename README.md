@@ -72,4 +72,5 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - [Sooyoung Lee](https://github.com/syleemk)          
 - [Sunghee Ryu](https://github.com/S4nop)     
 - [Hyejoo Noh](https://github.com/heyzoou)     
+- [Yongsuek Kang](https://github.com/kangyongseok)         
 
