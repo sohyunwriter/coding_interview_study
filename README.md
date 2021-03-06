@@ -31,6 +31,7 @@ leetcode, hackerrank, programmers, baekjoon, codility 등 다양하게 풉니다
 - 2021.03.01 programmers [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)      
 - 2021.03.02 baekjoon [1034. 램프](https://www.acmicpc.net/problem/1034)
 - 2021.03.04 programmers [힙 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+- 2021.03.05 baekjoon [4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 
 
 ## 2️⃣ Mock coding interview    
